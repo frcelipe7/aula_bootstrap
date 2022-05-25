@@ -1,0 +1,32 @@
+.navbar {
+    background-color: gray;
+}
+
+h3 {color: #f2f2f2;}
+
+.quem-somos {
+    background-color: rgb(59, 59, 59);
+    color: #f2f2f2;
+}
+
+.padding {
+    padding: 50px 20px;
+}
+
+.parceiros {
+    background-color: #5F82FA;
+    color: #d1d1d1;
+}
+
+.margin-tb-20 {
+    margin: 20px 0;
+}
+
+.bg-footer {
+    background-color: black;
+    color: #ffffff;
+}
+
+.servicos h3 {color: black;}
+
+.padding-10 {padding: 10px;}
